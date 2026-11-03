@@ -1,0 +1,8 @@
+{
+  "name": "EquiBlanket",
+  "description": "Smart equine blanket advisor using evening weather forecasts, custom temperature alerts, notifications, and historical logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
